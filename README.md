@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🌟 A 3rd-year CSE student at Amity.  <br>💡 Finalist @ Smart India Hackathon 2023 | Winner @ Campus Hackathon 2024  <br>💻 Skilled in Java, Python, C/C++, HTML & CSS  <br>📚 94% (10th) | 92% (12th) | Lifelong learner & problem-solver  <br>🤝 Passionate about innovation, teamwork, and tech-driven impact  <br>
+🌟 A 4th-year CSE student at Amity.  <br>💡 Finalist @ Smart India Hackathon 2023 | Winner @ Campus Hackathon 2024  <br>💻 Skilled in Java, Python, C/C++, HTML & CSS  <br>📚 94% (10th) | 92% (12th) | Lifelong learner & problem-solver  <br>🤝 Passionate about innovation, teamwork, and tech-driven impact  <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zainabahmad14/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainab14ahmad@gmail.com) 
