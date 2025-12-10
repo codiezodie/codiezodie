@@ -119,46 +119,30 @@ const zainab = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>
+  <a href="https://www.canva.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="50" height="50"/></a>
+</p>
 
 ---
 
@@ -206,40 +190,131 @@ const zainab = {
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Live Demos
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🗺️ MochaMap</h3>
-<div align="center">  
-<a href="https://github.com/codiezodie/MochaMap" target="_blank"><img src="https://img.shields.io/badge/View_Repo-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Interactive coffee shop locator with beautiful UI design and map integration</p>
+
+### 🗺️ MochaMap - Coffee Shop Finder
+
+<div align="center">
+  <a href="https://mocha-map.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-6AD3F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/codiezodie/MochaMap" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://mocha-map.vercel.app/" target="_blank">
+    <img src="./assets/mocha_preview.png" width="100%" alt="MochaMap Preview"/>
+  </a>
+</div>
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Features:**
+- 📍 Interactive map interface
+- ☕ Coffee shop location finder
+- 🎨 Beautiful, responsive UI
+- 🚀 Fast and optimized
+
 </td>
 <td width="50%">
-<h3 align="center">🌭 Not-Hot-Dog</h3>
-<div align="center">  
-<a href="https://github.com/codiezodie/Not-Hot-Dog" target="_blank"><img src="https://img.shields.io/badge/View_Repo-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
-<p><strong>Python, ML</strong> - AI-powered image classification app to detect hot dogs using machine learning</p>
+
+### 🧘 Mindease Mental Health Platform
+
+<div align="center">
+  <a href="https://mindease-mental-health.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-6AD3F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/codiezodie/mindease-mental-health" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://mindease-mental-health.vercel.app/" target="_blank">
+    <img src="./assets/mindease.png" width="100%" alt="Mindease Preview"/>
+  </a>
+</div>
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Features:**
+- 🧠 Mental wellness platform
+- 🤖 AI-powered chatbot
+- 💬 Community support
+- 📊 Wellness tracking
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">📚 Array Questions DSA</h3>
-<div align="center">  
-<a href="https://github.com/codiezodie/Array_Questions_DSA" target="_blank"><img src="https://img.shields.io/badge/View_Repo-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
-<p><strong>Java</strong> - Comprehensive collection of 20+ array-based DSA problems with optimized solutions</p>
+
+### 🌭 Not-Hot-Dog - AI Image Classifier
+
+<div align="center">
+  <a href="https://github.com/codiezodie/Not-Hot-Dog" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/hotdog.png" width="100%" alt="Not-Hot-Dog Preview"/>
+</div>
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Features:**
+- 🤖 AI-powered classification
+- 📸 Image recognition
+- 🎯 95% accuracy rate
+- ⚡ Real-time detection
+
 </td>
 <td width="50%">
-<h3 align="center">🧘 Mindease Mental Health</h3>
-<div align="center">  
-<a href="https://github.com/codiezodie/mindease-mental-health" target="_blank"><img src="https://img.shields.io/badge/View_Repo-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
-<p><strong>JavaScript, React, OpenCV</strong> - Mental wellness platform with AI chatbot and wellness resources</p>
+
+### 📚 Array Questions DSA
+
+<div align="center">
+  <a href="https://github.com/codiezodie/Array_Questions_DSA" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/dsapreview.jpeg" width="100%" alt="DSA Preview"/>
+</div>
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Features:**
+- 📝 20+ DSA problems
+- 💡 Optimized solutions
+- 📊 Time complexity analysis
+- 🎯 Interview preparation
+
 </td>
 </tr>
 </table>
@@ -284,7 +359,7 @@ current_progress = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
