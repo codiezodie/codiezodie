@@ -1,16 +1,14 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Zainab+Ahmad;Full+Stack+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today;SIH+2023+Finalist+%F0%9F%8F%86+%7C+Hackathon+Winner+%F0%9F%A5%87" alt="Typing SVG" />
+</div>
 
-# 👋 Hey, I'm Zainab Ahmad!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+Competitive+Programmer;SIH+2023+Finalist+%F0%9F%8F%86;Campus+Hackathon+Winner+2024+%F0%9F%A5%87" alt="Typing SVG" />
-
-<br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainabahmad14/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab14ahmad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab14ahmad@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/zainab14ahmad)
 
-![Profile Views](https://komarev.com/ghpvc/?username=codiezodie&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=codiezodie&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -18,71 +16,152 @@
 
 ## 🚀 About Me
 
-- 🎓 **4th Year CSE Student** @ Amity University
-- 🏆 **Smart India Hackathon 2023** Finalist
-- 🥇 **Campus Hackathon 2024** Winner
-- 💻 Passionate about **Web Development** & **Problem Solving**
-- 📚 Academic Excellence: **94% (10th) | 92% (12th)**
-- 🌱 Currently mastering **Data Structures & Algorithms**
-- 🔭 Building projects with **React, Node.js, and Java**
-- ⚡ Fun fact: I turn coffee into code ☕ → 💻
+```javascript
+const zainab = {
+    pronouns: "she/her",
+    education: "4th Year CSE @ Amity University",
+    location: "Ranchi, Jharkhand, India",
+    achievements: [
+        "🏆 Finalist @ Smart India Hackathon 2023",
+        "🥇 Winner @ Campus Hackathon 2024",
+        "📚 Academic Excellence: 94% (10th) | 92% (12th)"
+    ],
+    currentFocus: "Building scalable web applications & mastering DSA",
+    passion: "Solving real-world problems through code",
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 What I Do
 
-### Languages
+🔹 **Full Stack Development** - Crafting responsive, user-centric web applications  
+🔹 **Problem Solving** - Competitive programming enthusiast on LeetCode  
+🔹 **UI/UX Design** - Creating intuitive interfaces with Figma & Canva  
+🔹 **Database Management** - Designing efficient data architectures  
+🔹 **IoT & Hardware** - Tinkering with Arduino projects  
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend
+</details>
+
+<details open>
+<summary><b>🌐 Web Technologies</b></summary>
+<br>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Tools & Platforms
+</details>
+
+<details open>
+<summary><b>⚙️ Tools & Platforms</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Design Tools</b></summary>
+<br>
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codiezodie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiezodie&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codiezodie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiezodie&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codiezodie&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codiezodie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 💡 LeetCode Stats
+## 💡 LeetCode Journey
 
 <div align="center">
+  <img src="https://leetcard.jacoblin.cool/zainab14ahmad?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+</div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zainab14ahmad?theme=dark&font=Ubuntu)](https://leetcode.com/zainab14ahmad/)
+---
 
+## 🎯 Current Goals
+
+- 🔭 Working on building full-stack projects with React & Node.js
+- 🌱 Learning advanced Data Structures & Algorithms
+- 👯 Looking to collaborate on open-source projects
+- 💬 Ask me about web development, competitive programming, or tech!
+- ⚡ Always excited to learn new technologies
+- 🏆 Target: 500+ GitHub commits & 500+ LeetCode problems
+
+---
+
+## 🌟 Featured Projects
+
+### 🗺️ [MochaMap](https://github.com/codiezodie/MochaMap)
+Interactive coffee shop locator with beautiful UI  
+**Tech Stack:** JavaScript, HTML5, CSS3
+
+### 🌭 [Not-Hot-Dog](https://github.com/codiezodie/Not-Hot-Dog)
+AI-powered image classification application  
+**Tech Stack:** Python, Machine Learning
+
+### 📚 [Array Questions DSA](https://github.com/codiezodie/Array_Questions_DSA)
+Comprehensive DSA practice repository  
+**Tech Stack:** Java
+
+### 🧘 [Mindease Mental Health](https://github.com/codiezodie/mindease-mental-health)
+Mental wellness platform with AI chatbot  
+**Tech Stack:** JavaScript, React, OpenCV
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codiezodie&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -90,76 +169,31 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codiezodie&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/codiezodie)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=codiezodie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codiezodie&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/codiezodie)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🗺️ [MochaMap](https://github.com/codiezodie/MochaMap)
-Interactive coffee shop locator with beautiful UI design
-- **Tech:** JavaScript, HTML5, CSS3
-- **Features:** Map integration, Location finder, Responsive design
-
-### 🌭 [Not-Hot-Dog](https://github.com/codiezodie/Not-Hot-Dog)
-AI-powered image classification application
-- **Tech:** Python, Machine Learning
-- **Features:** Image recognition, Real-time prediction
-
-### 📚 [Array Questions DSA](https://github.com/codiezodie/Array_Questions_DSA)
-Comprehensive DSA practice repository
-- **Tech:** Java
-- **Features:** 20+ array problems, Optimized solutions, Detailed explanations
-
-### 🧘 [Mindease Mental Health](https://github.com/codiezodie/mindease-mental-health)
-Mental wellness platform with AI chatbot
-- **Tech:** JavaScript, React, OpenCV
-- **Features:** Wellness resources, Community support, Interactive tools
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Reach 500+ GitHub commits
-- 🔄 Build 10 full-stack projects
-- 🔄 Solve 500+ LeetCode problems
-- 🔄 Contribute to open source
-- 🔄 Win more hackathons
-- 🔄 Learn system design & cloud computing
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
+### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+### 👀 Profile Views
+
+<img src="https://profile-counter.glitch.me/codiezodie/count.svg" alt="Visitor Count"/>
 
 ---
 
-<div align="center">
+### 💖 Let's Connect!
 
-### 💖 Thanks for visiting! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zainabahmad14/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:zainab14ahmad@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/zainab14ahmad)
 
-**Let's connect and build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zainabahmad14/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:zainab14ahmad@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-Solve-FFA116?style=flat&logo=leetcode)](https://leetcode.com/zainab14ahmad)
+---
 
 ⭐️ From [codiezodie](https://github.com/codiezodie) | *Turning ideas into reality, one commit at a time*
+
+</div>
