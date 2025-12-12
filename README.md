@@ -345,16 +345,6 @@ current_progress = {
 
 ---
 
-## 📚 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Coming Soon: "My Journey from Beginner to SIH Finalist"
-- 💡 Coming Soon: "10 DSA Patterns Every Developer Should Know"
-- 🎯 Coming Soon: "How I Built MochaMap: A Step-by-Step Guide"
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💭 Dev Quote of the Day
 
 <div align="center">
