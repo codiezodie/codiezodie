@@ -39,8 +39,7 @@ const zainab = {
     achievements: [
         "🏆 Smart India Hackathon 2023 Finalist",
         "🥇 Campus Hackathon 2024 Winner",
-        "📚 94% (Class 10) | 92% (Class 12)",
-        "💡 1,427 Contributions in 2025"
+        "📚 94% (Class 10) | 92% (Class 12)"
     ],
     
     currentlyWorking: "Full-stack web applications",
@@ -100,15 +99,13 @@ const zainab = {
 - 🔭 Building **full-stack projects** with React & Node.js
 - 🌱 Mastering **Data Structures & Algorithms**
 - 👯 Contributing to **Open Source**
-- 💬 Mentoring juniors in **Web Development**
-- 📝 Writing technical blogs & tutorials
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Expertise
 - **Full Stack Development** - MERN Stack
-- **Problem Solving** - LeetCode, Competitive Programming
+- **Problem Solving** - LeetCode, hackerRank
 - **UI/UX Design** - Figma, Canva, Adobe
 - **Database Design** - MySQL, MongoDB
 - **IoT & Hardware** - Arduino, Embedded Systems
@@ -328,7 +325,7 @@ const zainab = {
 ## 🎯 2025 Goals & Roadmap
 
 ```python
-roadmap_2025 = {
+roadmap_2026 = {
     "Q1": ["✅ Earn GitHub badges", "🔄 Build 3 full-stack projects", "🔄 Solve 200 LeetCode problems"],
     "Q2": ["Launch portfolio website", "Contribute to 5 open source projects", "Win a major hackathon"],
     "Q3": ["Master System Design", "Learn Cloud Computing (AWS/Azure)", "Build SaaS product"],
@@ -336,8 +333,7 @@ roadmap_2025 = {
 }
 
 current_progress = {
-    "commits": "1,427 ✅ (Goal: 1,000)",
-    "leetcode": "150 (Goal: 500)",
+    "leetcode": "300+ (Goal: 500)",
     "projects": "12 public repos",
     "achievements": ["SIH Finalist", "Hackathon Winner", "GitHub Badges"]
 }
