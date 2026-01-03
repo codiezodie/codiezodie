@@ -60,9 +60,6 @@ Interactive web application to discover and locate coffee shops with a beautiful
 Comprehensive mental wellness platform featuring AI-powered chatbot, community support, and wellness tracking.  
 **Tech:** React, JavaScript, OpenCV | [GitHub](https://github.com/codiezodie/mindease-mental-health)
 
-### [Not-Hot-Dog - AI Image Classifier](https://github.com/codiezodie/Not-Hot-Dog)
-Machine learning powered image classification system with 95% accuracy for real-time object detection.  
-**Tech:** Python, TensorFlow
 
 ### [DSA Array Problems](https://github.com/codiezodie/Array_Questions_DSA)
 Collection of 20+ optimized array-based DSA solutions with complexity analysis for interview preparation.  
