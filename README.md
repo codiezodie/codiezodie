@@ -71,8 +71,7 @@ Collection of 20+ optimized array-based DSA solutions with complexity analysis f
 
 - 🏆 **Smart India Hackathon 2023** - Finalist
 - 🥇 **Campus Hackathon 2024** - Winner
-- 💻 **LeetCode:** 150+ problems solved (77 Easy, 61 Medium, 12 Hard)
-- 📊 **GitHub:** 1,427+ contributions
+- 💻 **LeetCode:** 300+ problems solved (137 Easy, 121 Medium, 30 Hard)
 
 ---
 
