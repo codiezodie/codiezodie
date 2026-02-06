@@ -85,7 +85,7 @@ Collection of 20+ optimized array-based DSA solutions with complexity analysis f
 ---
 
 ## Let's Connect
-I'm open to collaborations on innovative projects, hackathons, and internship opportunities. Feel free to reach out!
+I'm open to collaborations on innovative projects, and internship opportunities. Feel free to reach out!
 
 📧 **Email:** zainab14ahmad@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/zainabahmad14](https://www.linkedin.com/in/zainabahmad14/)  
